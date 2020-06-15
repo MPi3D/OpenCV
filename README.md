@@ -1,5 +1,7 @@
 # OpenCV
 
+Program to install OpenCV on Raspberry Pi.
+
 ## Install
 
 ``` sh
