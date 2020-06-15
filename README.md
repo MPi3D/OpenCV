@@ -2,6 +2,8 @@
 
 Program to install OpenCV on Raspberry Pi.
 
+[![OpenCV](/opencv.png)](https://opencv.org/)
+
 ## Install
 
 ``` sh
