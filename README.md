@@ -12,3 +12,7 @@ cd OpenCV
 chmod +x install.sh
 sudo install.sh
 ```
+
+# Demo
+
+You can try a Python program which works with OpenCV and my robotic arm.
