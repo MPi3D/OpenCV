@@ -7,8 +7,8 @@ Program to install OpenCV on Raspberry Pi.
 ## Install
 
 ``` sh
-git clone https://github.com/MPi3D/OpenCV.git
-cd OpenCV
+git clone https://github.com/MPi3D/opencv.git
+cd opencv
 chmod +x install.sh
 sudo install.sh
 ```
