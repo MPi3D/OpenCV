@@ -15,4 +15,4 @@ sudo install.sh
 
 ## Demo
 
-You can try a Python program which works with OpenCV and my robotic arm.
+You can try a Python program which works with OpenCV and my [robotic arm](https://github.com/mpi3d/robotic-arm).
